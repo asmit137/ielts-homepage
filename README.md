@@ -1,16 +1,49 @@
-# React + Vite
+# 🏫 IELTS Pro — React Home Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, elegant, and fully responsive **IELTS Institute landing page** built using **React + Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
+Live Link
+```
+https://ielts-homepage-one.vercel.app/
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Setup Instructions
 
-## React Compiler
+1️⃣ **Clone this repository**
+```bash
+git clone https://github.com/asmit137/ielts-homepage.git
+```
+Navigate into the folder
+```
+cd ielts-pro
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+3️⃣ Install dependencies
+```
+npm install
+```
 
-## Expanding the ESLint configuration
+4️⃣ Run the development server
+```
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+5️⃣ Open in your browser
+
+http://localhost:5173
+
+🎨 Design Choices
+
+Modern & Clean UI: Built with Tailwind CSS for responsive and minimal design.
+
+Gradient Hero Section: Creates a strong first impression and highlights the institute’s message.
+
+Glassmorphism Cards: Used for course highlights, giving a modern, elegant feel.
+
+Consistent Blue Palette: Represents trust, calmness, and professionalism — ideal for educational themes.
+
+Responsive Navbar: Adapts seamlessly for both desktop and mobile users.
+
+💡 Designed and developed by Asmit Gawande
+📧 asmitgawande1307@gmail.com
