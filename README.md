@@ -3,28 +3,32 @@
 A simple, elegant, and fully responsive **IELTS Institute landing page** built using **React + Tailwind CSS**.
 
 ---
+Live Link
+```
+
+```
 
 ## ⚙️ Setup Instructions
 
 1️⃣ **Clone this repository**
 ```bash
 git clone https://github.com/asmit137/ielts-homepage.git
-
+```
 Navigate into the folder
-
+```
 cd ielts-pro
-
+```
 
 3️⃣ Install dependencies
-
+```
 npm install
-
+```
 
 4️⃣ Run the development server
-
+```
 npm run dev
 
-
+```
 5️⃣ Open in your browser
 
 http://localhost:5173
